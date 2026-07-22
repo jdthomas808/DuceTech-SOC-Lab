@@ -4,6 +4,8 @@ Welcome to my enterprise-style cybersecurity home lab.
 
 This repository documents my journey of building a realistic Security Operations Center (SOC) environment from the ground up while developing hands-on experience in Windows administration, virtualization, threat detection, incident response, and security monitoring.
 
+My goal is to bridge the gap between earning certifications and performing the day-to-day responsibilities of a Security Operations Center (SOC) Analyst.
+
 ---
 
 # 🎯 Project Goals
