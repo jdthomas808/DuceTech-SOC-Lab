@@ -72,15 +72,17 @@ DuceTech-SOC-Lab
 ---
 
 # 🛠️ Technologies
-
+ Currently Used:
 - VMware Workstation Pro
 - Windows 11
 - PowerShell
+- GitHub
 - Event Viewer
+  
+  Planned:
 - Sysmon
 - Elastic SIEM
 - Kali Linux
-- GitHub
 - MITRE ATT&CK
 
 ---
