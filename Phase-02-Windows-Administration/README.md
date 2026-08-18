@@ -118,10 +118,20 @@ This demonstrated how process identifiers and timestamps can help connect relate
 
 I filtered the PowerShell Operational log for Event ID 4104 and identified five Script Block Logging events.
 
+### Evidence — Event ID 4104 Filtering
+
+![PowerShell Event ID 4104 filtered events](powershell-4104-filtered-events.png)
+
+*Figure 1 — PowerShell Operational log filtered to isolate five Event ID 4104 Script Block Logging events for further analysis.*
+
 Unlike basic process information, Event ID 4104 provided visibility into PowerShell code that had actually executed.
 
 I reviewed script blocks involving:
+### Evidence — PowerShell Script Block Analysis
 
+![PowerShell Event ID 4104 script block analysis](powershell-4104-script-block-analysis.png)
+
+*Figure 2 — Event ID 4104 displaying executed PowerShell script-block content. The script was reviewed for its registry paths, commands, and behavior before determining that the available evidence was more consistent with legitimate Windows activity than malicious execution.*
 - Windows language and input-profile configuration
 - Registry paths associated with Windows configuration
 - Windows troubleshooting functions
@@ -150,6 +160,11 @@ Script contents, process relationships, user context, timestamps, and surroundin
 I analyzed the Windows Security log to investigate successful and failed authentication activity.
 
 ### Successful Logons — Event ID 4624
+### Evidence — Successful Interactive Logon
+
+![Windows Event ID 4624 interactive logon](security-4624-interactive-logon.png)
+
+*Figure 3 — Event ID 4624 showing a successful Logon Type 2 interactive authentication. The event was analyzed by separating the Subject security context from the account receiving the new logon session.*
 
 I filtered the Security log for Event ID **4624**, which represents a successful account logon. The initial filter returned approximately **575 events**.
 
@@ -193,6 +208,12 @@ Both events contained the same general characteristics:
 - **Account Name:** Not populated
 
 The source address `127.0.0.1` is the local loopback address, indicating that the activity originated from the local system rather than a remote host.
+
+### Evidence — Failed Logon Investigation
+
+![Windows Event ID 4625 failed logon analysis](security-4625-failed-logon-analysis.png)
+
+*Figure 4 — Event ID 4625 failed authentication showing svchost.exe as the caller process and 127.0.0.1 as the source address. Process, network, and authentication information were correlated before assessing the activity as more consistent with local/system authentication behavior than a remote login attempt.*
 
 Because both failed events shared the same caller process, process ID, logon type, source address, and failure pattern, the available evidence was more consistent with repeated local/system authentication activity than separate remote login attempts.
 
