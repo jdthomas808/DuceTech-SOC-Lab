@@ -86,9 +86,6 @@ Planned:
 - MITRE ATT&CK
 
 ---
-
-# 🚀 Current Focus
-
 # 🚀 Current Focus
 
 I have completed the Windows Administration phase of the DuceTech SOC Home Lab, building a foundation in Windows event analysis, process investigation, authentication logging, and PowerShell activity.
