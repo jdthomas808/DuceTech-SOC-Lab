@@ -89,7 +89,11 @@ Planned:
 
 # 🚀 Current Focus
 
-I am currently working through the Windows Administration phase, learning how Windows logs events, manages services, and records system activity before deploying a SIEM solution.
+# 🚀 Current Focus
+
+I have completed the Windows Administration phase of the DuceTech SOC Home Lab, building a foundation in Windows event analysis, process investigation, authentication logging, and PowerShell activity.
+
+My next focus is networking for security analysis, including TCP/IP fundamentals, ports and protocols, DNS, active network connections, and identifying suspicious network behavior. These skills will prepare the lab for endpoint telemetry, SIEM deployment, and incident investigation.
 
 Every completed phase includes:
 
