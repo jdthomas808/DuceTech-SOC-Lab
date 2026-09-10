@@ -63,10 +63,11 @@ DuceTech-SOC-Lab
 │
 ├── Phase-01-Infrastructure
 ├── Phase-02-Windows-Administration
-├── Phase-03-Sysmon
-├── Phase-04-Elastic-SIEM
-├── Phase-05-Kali-Linux
-├── Phase-06-Incident-Response
+├── Phase-03-Network-Security
+├── Phase-04-Sysmon
+├── Phase-05-Elastic-SIEM
+├── Phase-06-Kali-Linux
+├── Phase-07-Incident-Response
 └── Network-Diagrams
 ```
 
@@ -89,9 +90,9 @@ Planned:
 ---
 # 🚀 Current Focus
 
-I have completed the Windows Administration phase of the DuceTech SOC Home Lab, building a foundation in Windows event analysis, process investigation, authentication logging, and PowerShell activity.
+I have completed the Windows Administration and Network Security & Investigation phases of the DuceTech SOC Home Lab, building a foundation in Windows event analysis, process investigation, authentication logging, PowerShell activity, TCP/IP fundamentals, active network connections, process-to-network correlation, and listening service analysis.
 
-My next focus is networking for security analysis, including TCP/IP fundamentals, ports and protocols, DNS, active network connections, and identifying suspicious network behavior. These skills will prepare the lab for endpoint telemetry, SIEM deployment, and incident investigation.
+My next focus is Windows security logging and endpoint telemetry, building toward Sysmon deployment, centralized SIEM analysis, alert triage, and incident investigation.
 
 Every completed phase includes:
 
@@ -100,3 +101,24 @@ Every completed phase includes:
 - Lessons Learned
 - Screenshots
 - Troubleshooting Notes
+
+---
+
+# 🧪 Supplemental Security Training — TryHackMe
+
+Alongside the DuceTech lab, I use targeted TryHackMe rooms to reinforce defensive security concepts and gain additional hands-on practice.
+
+## SOC Fundamentals
+- Learned the purpose and structure of a Security Operations Center (SOC).
+- Reviewed common SOC roles, alert handling, escalation, and investigation workflows.
+- Reinforced the importance of analyzing context before deciding whether activity is suspicious or malicious.
+
+## Defensive Security Intro
+- Practiced defensive security concepts through an investigation-based scenario.
+- Reviewed how defenders identify, investigate, and respond to suspicious activity.
+- Reinforced incident investigation and evidence-based decision making.
+
+## Offensive Security Intro
+- Practiced basic offensive security concepts by identifying weaknesses in a simulated banking environment.
+- Used the attacker perspective to better understand how vulnerabilities may be discovered and exploited.
+- Applied that perspective as supporting context for defensive analysis.
