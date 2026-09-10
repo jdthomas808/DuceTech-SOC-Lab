@@ -26,11 +26,12 @@ My goal is to bridge the gap between earning certifications and performing the d
 | Phase | Status |
 |--------|:------:|
 | ✅ Phase 01 - Infrastructure | Complete |
-| 🚧 Phase 02 - Windows Administration | Complete |
-| ⏳ Phase 03 - Sysmon Deployment | Planned |
-| ⏳ Phase 04 - Elastic SIEM | Planned |
-| ⏳ Phase 05 - Kali Linux Attacker VM | Planned |
-| ⏳ Phase 06 - Incident Response & Detection | Planned |
+| ✅ Phase 02 - Windows Administration | Complete |
+| ✅ Phase 03 - Network Security & Investigation | Complete |
+| ⏳ Phase 04 - Sysmon Deployment | Planned |
+| ⏳ Phase 05 - Elastic SIEM | Planned |
+| ⏳ Phase 06 - Kali Linux Attacker VM | Planned |
+| ⏳ Phase 07 - Incident Response & Detection | Planned |
 
 ---
 
