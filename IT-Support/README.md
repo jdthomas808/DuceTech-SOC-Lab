@@ -7,4 +7,4 @@ and verification. All exercises are controlled lab simulations.
 
 ## Progress
 
-- [ ] Support-01: Windows Print Spooler troubleshooting
+- [x] [Support-01: Windows Print Spooler troubleshooting](Cases/Support-01-Printer-Service.md)
