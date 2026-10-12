@@ -60,4 +60,19 @@ A screenshot was captured as recovery evidence.
 - Document uncertain causes without presenting guesses as facts.
 
 ## Evidence
-Screenshots will be added next.
+<img width="474" height="623" alt="Screenshot 2026-10-10 134114" src="https://github.com/user-attachments/assets/7420042b-11c3-4d63-bf68-018b5087899c" />
+
+<img width="629" height="698" alt="Screenshot 2026-10-10 142034" src="https://github.com/user-attachments/assets/4d710d40-f637-4980-a668-fb3838da435a" />
+
+<img width="665" height="708" alt="Screenshot 2026-10-10 140059" src="https://github.com/user-attachments/assets/d36de642-d39c-46db-921e-4b011f8a3dee" />
+
+<img width="673" height="720" alt="Screenshot 2026-10-10 140156" src="https://github.com/user-attachments/assets/29fbe543-b27a-43c6-924d-c87ffe3c6c1d" />
+
+
+<img width="665" height="693" alt="Screenshot 2026-10-10 135011" src="https://github.com/user-attachments/assets/14dd7dd6-a116-4a2d-bf52-4ebe48a1542b" />
+
+
+<img width="476" height="632" alt="Screenshot 2026-10-10 142154" src="https://github.com/user-attachments/assets/9d2f5369-1d6e-431d-bd4b-dd27b28c8ce5" />
+
+
+<img width="651" height="523" alt="Screenshot 2026-10-11 005627" src="https://github.com/user-attachments/assets/443c4e23-4e40-4fab-8f55-fa983a95d0ca" />
