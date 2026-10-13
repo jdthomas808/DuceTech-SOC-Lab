@@ -51,6 +51,7 @@ The handoff note recorded:
 - Retention of the original file
 - The scope of the simulation
 - Unresolved VM stability issues
+<img width="1159" height="632" alt="Screenshot 2026-10-13 154351" src="https://github.com/user-attachments/assets/eea716a1-4b6e-4a4f-8364-030d9b4966bc" />
 
 ## Outstanding Issue
 The VM experienced unexpected restarts.
@@ -79,4 +80,15 @@ independent backup against failure of the VM's disk.
 - Distinguish successful file transfer from overall device readiness.
 
 ## Evidence
-Screenshots will be added next.
+
+<img width="1157" height="632" alt="Screenshot 2026-10-13 145643" src="https://github.com/user-attachments/assets/47ed27bd-477c-4e44-9229-66bf88e20807" />
+
+
+<img width="1212" height="687" alt="Screenshot 2026-10-13 122047" src="https://github.com/user-attachments/assets/4f645245-7393-4c5e-9c96-f8a1810ccfe4" />
+
+
+<img width="1159" height="632" alt="Screenshot 2026-10-13 154351" src="https://github.com/user-attachments/assets/d7ce966d-a0fb-4a12-bb12-94222e8d28a5" />
+
+
+![Uploading Screenshot 2026-10-13 122047.png…]()
+
