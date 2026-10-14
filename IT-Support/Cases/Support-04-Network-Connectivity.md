@@ -12,7 +12,7 @@ Identify a disconnected network adapter, restore its connection, and verify gate
 - Default gateway and DNS server: 192.168.243.2
 - DHCP enabled.
 - Gateway ping: 4 replies, 0% packet loss.
-- External IP ping (1.1.1.1): 4 replies, 0% loss.
+- External IP ping (1.1.1.1): 4 replies, 0% loss. 
   The first reply took 1,425 ms; the remaining replies took 36–71 ms.
 - DNS lookup for www.microsoft.com. returned IP addresses.
 - Microsoft website loaded in Chrome.
