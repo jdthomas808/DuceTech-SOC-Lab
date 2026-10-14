@@ -86,4 +86,19 @@ of the update and stability issues.
 - Document unresolved issues and make a clear handoff decision.
 
 ## Evidence
-Screenshots will be added next.
+### Standard User Account
+
+<img width="540" height="270" alt="Screenshot 2026-10-13 173151" src="https://github.com/user-attachments/assets/331d5c0e-fe7f-46d1-a48a-af01e1945365" />
+
+### Windows Update Findings
+
+<img width="468" height="624" alt="Screenshot 2026-10-13 183200" src="https://github.com/user-attachments/assets/d6d87a2f-1da9-4061-8c95-ddd303221ec9" />
+
+### Acceptance Checklist and Handoff Decision
+
+<img width="1156" height="607" alt="Screenshot 2026-10-13 185317" src="https://github.com/user-attachments/assets/eb322792-55c6-49de-b426-0e55b8f50843" />
+
+### Successful Printing from the Standard Account
+
+<img width="454" height="602" alt="Screenshot 2026-10-13 182521" src="https://github.com/user-attachments/assets/fca80802-a9e4-4d9e-93a8-a9f2dac175d4" />
+
