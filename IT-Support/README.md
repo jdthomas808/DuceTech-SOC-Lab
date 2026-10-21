@@ -19,3 +19,4 @@ and verification. All exercises are controlled lab simulations.
 Documented simulations covering user communication, troubleshooting, deployment, and service verification.
 
 - [Simulation 01: Replacement Workstation Deployment](ServiceDesk-Simulations/Simulation-01-Replacement-Workstation.md)
+- [Simulation 02: Intermittent Wi-Fi Connectivity](ServiceDesk-Simulations/Simulation-02-WiFi-Connectivity.md)
