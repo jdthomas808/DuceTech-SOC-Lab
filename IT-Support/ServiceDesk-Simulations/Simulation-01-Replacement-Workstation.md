@@ -62,10 +62,15 @@ The inventory status alone does not confirm delivery or restored service.
 
 ## Evidence
 Screenshots to add:
-1. Completed deployment or successful post-imaging sign-in.
-2. SD2036 asset record showing hostname, assigned user, and status.
-3. Shipment confirmation, once completed.
-4. User confirmation of restored service, once received.
+1. Ticket and resolution notes:
+   <img width="665" height="513" alt="Screenshot 2026-10-20 205028" src="https://github.com/user-attachments/assets/b8eb8f20-2cca-4489-abe1-6209a4471f3b" />
+
+2. Simulator’s expected solution:
+   <img width="625" height="512" alt="Screenshot 2026-10-20 205305" src="https://github.com/user-attachments/assets/c9b81de4-1cdc-428c-b7f7-1f9cdb57ef56" />
+
+3. SD2036 asset record:
+   <img width="652" height="249" alt="Screenshot 2026-10-20 205627" src="https://github.com/user-attachments/assets/a8358590-4440-4358-b2a7-d63c935bb104" />
+
 
 Exclude passwords and credential banners from published screenshots.
 
