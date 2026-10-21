@@ -45,9 +45,15 @@ No configuration changes were required. Root cause remains unconfirmed.
 
 ## Evidence
 Supporting screenshots may include:
-- Original ticket and business impact.
-- User messages confirming recovery and no further drops.
-- Closed-ticket resolution notes.
+- Original ticket and business impact:
+  <img width="624" height="445" alt="Screenshot 2026-10-20 212120" src="https://github.com/user-attachments/assets/b29e4d98-8e2d-4a57-b017-7a9fbcafa4b8" />
+
+- User messages confirming recovery and no further drops:
+  <img width="271" height="582" alt="Screenshot 2026-10-20 212341" src="https://github.com/user-attachments/assets/6774affe-5b0b-4aad-b161-e3314014ea09" />
+
+- Closed-ticket resolution notes:
+  <img width="623" height="248" alt="Screenshot 2026-10-20 212200" src="https://github.com/user-attachments/assets/9c3ee877-e5d2-4c28-82f4-844f0cdd2fe8" />
+
 
 ## Lessons Learned
 - Verify that the user's work can continue before closing a ticket.
