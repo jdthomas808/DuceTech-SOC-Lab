@@ -13,3 +13,9 @@ and verification. All exercises are controlled lab simulations.
 - [x] [Support-04: Network Connectivity Troubleshooting](Cases/Support-04-Network-Connectivity.md)
 - [x] [Support-05: Local Account Password Reset and Recovery](Cases/Support-05-Password-Reset.md)
 - [x] [Support-06: Local Folder Access and Least Privilege](Cases/Support-06-Folder-Permissions.md)
+      
+## ServiceDesk Simulator Practice
+
+Documented simulations covering user communication, troubleshooting, deployment, and service verification.
+
+- [Simulation 01: Replacement Workstation Deployment](ServiceDesk-Simulations/Simulation-01-Replacement-Workstation.md)
